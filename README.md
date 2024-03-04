@@ -1,4 +1,4 @@
 # testing-merge-settings
 
-some changes
-some more
+- some changes
+- some more
